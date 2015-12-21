@@ -1,6 +1,8 @@
+import java.util.ArrayList;
 
-public class Question 
+public class Question extends Component
 {
+	
 	String description;
 	
 	public Question(String desc)
