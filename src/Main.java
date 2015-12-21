@@ -15,6 +15,7 @@ public class Main
 		b.addComponent(new Question("6+5="));
 		b.addComponent(a);
 		
+		System.out.println("¦L¥X¦Ò¨÷");
 		b.print();
 	}
 
